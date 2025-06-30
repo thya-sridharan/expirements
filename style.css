@@ -1,0 +1,29 @@
+ /*background colors*/
+            h1, h3 {
+                background-color: #f7cac9f5; font-size: 30px;
+            }
+            h2, h4 {
+                background-color:#92a8d1 ;font-size: 30px;
+            }
+            
+            /*font colors*/
+                 /* color: #92a8d1
+                color: #f7cac9 */
+            h1, h3 {
+                color: #92a8d1
+            }
+            h2, h4 {
+                color: #f7cac9 ;
+            }
+            
+            /*extras*/
+            .important {
+                color: orchid 
+            }
+            #type_shi {
+                color:blueviolet
+            }
+
+            #lolz {
+                text-transform: uppercase;
+            }
